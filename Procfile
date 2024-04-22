@@ -1,1 +1,1 @@
-worker: python3 Get Protected Content Posts.py
+worker: python3 main.py

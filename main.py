@@ -9,7 +9,7 @@ import asyncio
 
 # Bot Config
 class config:
-    API_KEY = "5919164836:AAGLAcRFz5f2XIYxGvaHzo3UjQCx4CIA6-w"
+    API_KEY = "5870809786:AAFxbB6M9p1BgABJbFuxyQOHN5dgiESszvs"
     API_HASH = "9cf3a6feb6dfcc7c02c69eb2c286830e"
     API_ID = 18421930
 
